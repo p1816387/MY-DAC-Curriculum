@@ -1,0 +1,547 @@
+[33mcommit 00d87f47632b70219c41ed83152796a09f3e7382[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kai <Kkohkaiwei00@gmail.com>
+Date:   Tue Oct 8 21:11:53 2024 +0800
+
+    session2
+
+[33mcommit 34c460cfc2b16f0aff8a60ef08b08a3a5bb53bc2[m
+Merge: f49ea06 ab8f967
+Author: kai wei <39515765+p1816387@users.noreply.github.com>
+Date:   Tue Oct 8 17:03:46 2024 +0800
+
+    Merge branch 'DACSIM:main' into main
+
+[33mcommit ab8f9678ac20a445d3175b6083162ba95db4bd9b[m
+Merge: a8a3986 90cd934
+Author: Sibikrishnan A.G. <106650102+Sibikrishnan-AG@users.noreply.github.com>
+Date:   Tue Oct 8 16:58:58 2024 +0800
+
+    Merge pull request #56 from DACSIM/kaavya-22-patch-1
+    
+    Add Python Tutorial Questions!
+
+[33mcommit a8a398637e53f8cf5b0870917cb1999dbc125568[m
+Merge: 9948b69 4bf64d3
+Author: genv3210 <146684779+genv3210@users.noreply.github.com>
+Date:   Tue Oct 8 13:30:07 2024 +0800
+
+    Merge pull request #53 from DACSIM/my-feature-branch
+    
+    EDA -gen
+
+[33mcommit 90cd934b9eb62577646897247ef6b92ac75b2779[m
+Author: Kaavya <kaavya.murugan@gmail.com>
+Date:   Tue Oct 8 02:22:49 2024 +0800
+
+    Add Python Tutorial Questions!
+
+[33mcommit 4bf64d33e4b931fbd351132c04bc4c2edda2ca01[m
+Author: genv3210 <genv3210@gmail.com>
+Date:   Sat Oct 5 01:48:45 2024 +0800
+
+    had a typo
+
+[33mcommit 4ab3856d5b23ee366bc99fa28cec8a6f85be7be3[m
+Author: genv3210 <genv3210@gmail.com>
+Date:   Sat Oct 5 01:20:10 2024 +0800
+
+    Student & Master copy edits
+
+[33mcommit 794c6cdcfed5f01acabcefbf5724aae1e7d45738[m
+Author: genv3210 <genv3210@gmail.com>
+Date:   Sat Oct 5 01:10:44 2024 +0800
+
+    Master and student copies
+
+[33mcommit aa5d23a648b81f003ed9f0f67e12dd0a0bb389ad[m
+Author: genv3210 <genv3210@gmail.com>
+Date:   Sat Oct 5 01:04:03 2024 +0800
+
+    new edits for EDA
+
+[33mcommit 35d46f348f79df338e3f7241b1df1bb83510998d[m
+Merge: d7e04c4 9948b69
+Author: genv3210 <genv3210@gmail.com>
+Date:   Sat Oct 5 00:17:17 2024 +0800
+
+    Trying to merge and sync
+
+[33mcommit d7e04c40d074162d0c890dd733f01600a1b4dce1[m
+Author: genv3210 <genv3210@gmail.com>
+Date:   Sat Oct 5 00:12:35 2024 +0800
+
+    First EDA Draft
+
+[33mcommit f49ea061fc5bd930570d749d5c31461b24a5def7[m
+Author: koh kaiwei <Kai>
+Date:   Thu Oct 3 21:48:54 2024 +0800
+
+    made some changes
+
+[33mcommit d1411238e14bba5cbe2eb0f216f213b4bc314617[m
+Merge: 86cba8d 9bd37d4
+Author: koh kaiwei <Kai>
+Date:   Thu Oct 3 21:38:17 2024 +0800
+
+    Merge branch 'main' of https://github.com/p1816387/MY-DAC-Curriculum
+
+[33mcommit 86cba8ddade2e4a6e618c36709da54c0c3766975[m
+Author: koh kaiwei <Kai>
+Date:   Thu Oct 3 21:35:52 2024 +0800
+
+    made some change
+
+[33mcommit f341afc76ddcb52cd3ca273a0d6c4235fb120c68[m
+Merge: 0d5d8e8 9948b69
+Author: koh kaiwei <Kai>
+Date:   Thu Oct 3 21:21:40 2024 +0800
+
+    made some notes
+
+[33mcommit 9bd37d4fa6f393a579b6ca445f23c12b9ececc74[m
+Merge: 0d5d8e8 9948b69
+Author: kai wei <39515765+p1816387@users.noreply.github.com>
+Date:   Thu Oct 3 20:05:52 2024 +0800
+
+    Merge branch 'DACSIM:main' into main
+
+[33mcommit 9948b69b672c9bdbd821fe0f133a5382f1eaf1aa[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: 0bb0030 cc34e6f
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Thu Oct 3 18:56:41 2024 +0800
+
+    Merge pull request #28 from DACSIM/kaavya-22-patch-2
+    
+    Add files via upload
+
+[33mcommit cc34e6fe9b5ce651164b25547799dee2bb0fcc57[m[33m ([m[1;31mupstream/kaavya-22-patch-2[m[33m)[m
+Author: Kaavya <kaavya.murugan@gmail.com>
+Date:   Thu Oct 3 18:55:29 2024 +0800
+
+    Add files via upload
+
+[33mcommit 0bb00308d4a48d2d691fcdf6ff9d52fd677e0a35[m
+Merge: 151f712 d50ab4c
+Author: Sibikrishnan A.G. <106650102+Sibikrishnan-AG@users.noreply.github.com>
+Date:   Thu Oct 3 15:39:32 2024 +0800
+
+    Merge pull request #27 from DACSIM/kaavya-22-patch-1-1
+    
+    added Intro to Python Session2 Answers
+
+[33mcommit d50ab4cad97d67c5e660ca553ead30f457e175bf[m[33m ([m[1;31mupstream/kaavya-22-patch-1-1[m[33m)[m
+Author: Kaavya <kaavya.murugan@gmail.com>
+Date:   Thu Oct 3 09:51:42 2024 +0800
+
+    Add files via upload
+
+[33mcommit 0d5d8e88ab04f94d5b75b49c85ad792db3d92c88[m
+Author: koh kaiwei <Kai>
+Date:   Tue Oct 1 21:52:09 2024 +0800
+
+    First Lesson
+
+[33mcommit 151f712a8520817e2ce53ae7ec57d10983458c7a[m
+Merge: 4ff3322 d1c915f
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Tue Oct 1 19:01:12 2024 +0800
+
+    Merge pull request #22 from DACSIM/cheryl-l1
+    
+    Python Lesson 1 Upload
+
+[33mcommit d1c915fdb8799f4013ee7c521befe3ed2a154d24[m[33m ([m[1;31mupstream/cheryl-l1[m[33m)[m
+Author: Sibikrishnan-AG <106650102+Sibikrishnan-AG@users.noreply.github.com>
+Date:   Tue Oct 1 18:59:31 2024 +0800
+
+    Python Lesson 1 Upload
+
+[33mcommit 4ff3322e6482020abf3cd6fbfc62f6ed50324d49[m
+Merge: 33bfc60 97b68a6
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Tue Oct 1 18:48:27 2024 +0800
+
+    Merge pull request #21 from DACSIM/kaavya-22-patch-1
+    
+    Add files via upload
+
+[33mcommit 97b68a6b830625a6305e557f30a102c842b6ec04[m
+Author: Kaavya <kaavya.murugan@gmail.com>
+Date:   Tue Oct 1 18:47:36 2024 +0800
+
+    Add files via upload
+
+[33mcommit 33bfc60e8ce1969f97417fc3f8d674e5db4cd3b0[m
+Merge: b027c1f 6bc231e
+Author: Kaavya <kaavya.murugan@gmail.com>
+Date:   Tue Oct 1 18:38:17 2024 +0800
+
+    Merge pull request #20 from DACSIM/Vettel99-spell-check
+    
+    Update README.MD
+
+[33mcommit 6bc231e84ec4a531067f21e30fba843f129b168a[m[33m ([m[1;31mupstream/Vettel99-spell-check[m[33m)[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Tue Oct 1 16:52:29 2024 +0800
+
+    Update README.MD
+
+[33mcommit b027c1f13be6864c3a5b6f4dc67650e8a42b1cde[m
+Merge: 229dc31 411b650
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Tue Oct 1 16:45:45 2024 +0800
+
+    Merge pull request #19 from Vettel99/main
+    
+    Update README.MD
+
+[33mcommit 411b6507208fa2260e78c646c710916909909bf2[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Tue Oct 1 14:07:03 2024 +0800
+
+    Update README.MD
+
+[33mcommit 229dc313d8cdc48042664ca75a7a95d29820bd5d[m
+Merge: 7abfa2c b9d2dfd
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Tue Oct 1 00:55:22 2024 +0800
+
+    Merge pull request #18 from Vettel99/main
+    
+    Update the Readme.md for the main curriculum
+
+[33mcommit b9d2dfdf9ce836f50ae46c61b9927fac8de4f376[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Tue Oct 1 00:10:45 2024 +0800
+
+    Update README.MD
+
+[33mcommit c921093e44891254001d1df342d69ef8dd3e70ab[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Tue Oct 1 00:10:15 2024 +0800
+
+    Update README.MD
+
+[33mcommit c919bcb2a0ecabee104e0d5e8e968b46542de054[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 22:31:45 2024 +0800
+
+    Update README.MD
+
+[33mcommit 8911b8dbccbc2ddf2d0d99c00fc4137131eec13e[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 22:07:12 2024 +0800
+
+    Update README.MD
+
+[33mcommit 1574e82c26aca38f4a792dcdee54d6a774825d4f[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:18:12 2024 +0800
+
+    Update README.MD
+
+[33mcommit 0751c732529562d6f3a96caf120dccfe7a114e31[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:17:04 2024 +0800
+
+    Update README.MD
+
+[33mcommit f29cfd44da36599d1780bcda438ecb5552eeb1c4[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:16:15 2024 +0800
+
+    Update README.MD
+
+[33mcommit e99e10a5336e6ccb44436c0eb9a66e25c4a08030[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:13:21 2024 +0800
+
+    Update README.MD
+
+[33mcommit 42c58d891dfd765c78a246268d1618877dbf22da[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:12:57 2024 +0800
+
+    Update README.MD
+
+[33mcommit 4dbcc466d96cb1ea433088137aea80b957272590[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:11:44 2024 +0800
+
+    Update README.MD
+
+[33mcommit ac9989e175208168216d2b43b42959ec83268893[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:11:10 2024 +0800
+
+    Update README.MD
+
+[33mcommit 7b65dcec2e756285e36877cefb57c12cef03ba2b[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:10:39 2024 +0800
+
+    Update README.MD
+
+[33mcommit d0d0567954bfbb741f8240942c3809430bf64677[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:05:46 2024 +0800
+
+    Update README.MD
+
+[33mcommit 7147244384e5543cab34e9b19ff3eb9e4e8614f7[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:05:09 2024 +0800
+
+    Update README.MD
+
+[33mcommit 0f76d5c0d3e3e8b6f0e15d60392931f1502e99af[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:02:00 2024 +0800
+
+    Update README.MD
+
+[33mcommit 8de6ea37b927be05892bb21888f66caa627e0376[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 21:01:27 2024 +0800
+
+    Update README.MD
+
+[33mcommit f76d7314b28e0920a79428186b146c238ba5e2b7[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 00:25:04 2024 +0800
+
+    Update README.MD
+
+[33mcommit 683b1597d2c5798d6f937f25d80df26c673cdafd[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 00:19:29 2024 +0800
+
+    Update README.MD
+
+[33mcommit 6d19c331f3601a1f4a91651895a941332649c6be[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Mon Sep 30 00:18:53 2024 +0800
+
+    Update README.MD
+
+[33mcommit 9b061f663f03dbb1090420ede838dc5a083c38f3[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Sun Sep 29 23:51:53 2024 +0800
+
+    Update README.MD
+
+[33mcommit 05d27a8991846ba2df0f0ecf227d96814523ba2a[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Sun Sep 29 23:07:17 2024 +0800
+
+    Update README.MD
+
+[33mcommit 644c7996592dcfcac411f8de5790e9f62259aaaa[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Sun Sep 29 23:06:33 2024 +0800
+
+    Update README.MD
+
+[33mcommit d6808423c0c57e362f99ea0e7c20aba4f294a111[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Sun Sep 29 22:56:10 2024 +0800
+
+    Update README.MD
+
+[33mcommit b77233488d6e043bc11bd6f25a88de3f7e6107b6[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Sun Sep 29 22:53:00 2024 +0800
+
+    Update README.MD
+
+[33mcommit 5cadf022f0298fdcd07fd07afaf986481801ddd8[m
+Author: Abhishek Bhadkamkar <75517210+Vettel99@users.noreply.github.com>
+Date:   Sun Sep 29 02:08:11 2024 +0800
+
+    Update README.MD
+
+[33mcommit 7abfa2cd07080ab3033b0636226cf26205a6113e[m
+Merge: 6ab474a ffdbc94
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Sat Sep 28 18:19:52 2024 +0800
+
+    Merge pull request #15 from DACSIM/DAC-SQL_john_branch_v003
+    
+    Adding Tableau into the curriculum
+
+[33mcommit ffdbc9423de9594d1840ee531db6d58a42ca4bd5[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sat Sep 28 18:16:12 2024 +0800
+
+    Adding Tableau into the curriculum
+
+[33mcommit 6ab474ab9abf6f73baca96108414a4a56c435bdc[m
+Merge: 3f7e300 791a4aa
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Sat Sep 28 17:54:40 2024 +0800
+
+    Merge pull request #14 from DACSIM/DAC-SQL_john_branch_v003
+    
+    DAC-SQL_john_branch_v003
+
+[33mcommit 791a4aaaf2516d9ce8dda252d0622c99bb52093b[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sat Sep 28 17:51:55 2024 +0800
+
+    Testing the fork repository results
+
+[33mcommit 3f7e300a0c45e6ec1a68176eaeb97486d15e8b04[m
+Merge: 15060e4 391da96
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Tue Sep 24 04:14:41 2024 +0800
+
+    Merge pull request #13 from DACSIM/DAC-SQL_john_branch_v003
+    
+    DAC-SQL_john_branch_v003
+
+[33mcommit 391da96685ffba5357b5957ed840f4cc9e18b3c0[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Tue Sep 24 04:11:59 2024 +0800
+
+    Added another folder for the dac curriculum
+
+[33mcommit 15060e460eb2144531d0f7f3451748425de7fa23[m
+Merge: b53b71a fec66e8
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Tue Sep 24 04:01:30 2024 +0800
+
+    Merge pull request #12 from DACSIM/DAC-SQL_john_branch_v002
+    
+    DAC-SQL_john_branch_v002
+
+[33mcommit fec66e88014232c93695f504fc8af447f4e7ca07[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Tue Sep 24 03:52:19 2024 +0800
+
+    testing the branch
+
+[33mcommit b53b71a53a5a7aff66cde954e86160f0a1bdc34f[m
+Merge: 27c8bf2 eacef98
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Tue Sep 24 03:32:35 2024 +0800
+
+    Merge pull request #9 from DACSIM/DAC-SQL_john_branch
+    
+    DAC-SQL_john_branch
+
+[33mcommit eacef98b5a52b937cffeb5dd317430b14713cd38[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Tue Sep 24 03:13:59 2024 +0800
+
+    Added my curriculum folders into the repository
+
+[33mcommit 27c8bf22aaff8ef2d1cc46d0eb11312173e00834[m
+Merge: d7fefde e25e850
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Sun Jul 21 01:20:16 2024 +0800
+
+    Merge pull request #8 from DACSIM/john
+    
+    Testing the secruity once more
+
+[33mcommit e25e8505d6111251c2c22d20d8e1eb1782e8bf6f[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sun Jul 21 01:13:17 2024 +0800
+
+    Testing the secruity once more
+
+[33mcommit d7fefde4bc4ae3e04211d5a1b3c5f81b47663c60[m
+Merge: 298f9e8 6ada8bc
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Sun Jul 21 00:53:21 2024 +0800
+
+    Merge pull request #7 from DACSIM/revert-6-john
+    
+    Revert "John"
+
+[33mcommit 6ada8bc4cd2392b9cf2645d80b048313f59739cd[m
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Sun Jul 21 00:49:53 2024 +0800
+
+    Revert "John"
+
+[33mcommit 298f9e86a91b83996f3930fd01028f3c370dc4ab[m
+Merge: 2ece53a 96cd383
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Sun Jul 21 00:45:16 2024 +0800
+
+    Merge pull request #6 from DACSIM/john
+    
+    John
+
+[33mcommit 96cd3830befcb78bacd86d4b15bb986978306b2e[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sun Jul 21 00:32:17 2024 +0800
+
+    Returning back to normal
+
+[33mcommit 2ece53a70a658e1c84b3c77bb3e234b0a6a957e5[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sun Jul 21 00:07:38 2024 +0800
+
+    Test branch security
+
+[33mcommit cc0cfb669de66c10f1a3b5e12e823b2ec537399b[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sun Jul 21 00:03:43 2024 +0800
+
+    testing branch rules
+
+[33mcommit 4f2ec57b4b061a1f5beba0ab8276049f3e1b37ce[m
+Merge: aee0e31 80edbfd
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Sat Jul 20 23:37:32 2024 +0800
+
+    Merge pull request #4 from DACSIM/john
+    
+    Adding intermediate sql curriculum content into the repository
+
+[33mcommit 80edbfd4a82695d4c5e99e6e8a10d5d39d4b88cb[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sat Jul 20 23:22:29 2024 +0800
+
+    Adding intermediate sql curriculum content into the repository
+
+[33mcommit aee0e318c65f5f92faf53b5d62f14c425b8cd5b0[m
+Merge: 4e5a037 39a01a9
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Sat Jul 20 23:10:16 2024 +0800
+
+    Merge pull request #3 from DACSIM/john
+    
+    Mapping out curriculum I need to teach
+
+[33mcommit 39a01a94b3208eece7fc0c23752ebb3cf58cccd0[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sat Jul 20 22:30:45 2024 +0800
+
+    Mapping out curriculum I need to teach
+
+[33mcommit 4e5a037b16f4aa305986c6647c323d0cbe53789b[m
+Merge: bf804fd 6422d80
+Author: DACSIM <dac@mymail.sim.edu.sg>
+Date:   Sat Jul 20 22:10:34 2024 +0800
+
+    Merge pull request #2 from DACSIM/john
+    
+    Uploading John's curriculum content
+
+[33mcommit 6422d804afad94ca3e164ea9ba5c6784f7bcc0c0[m
+Author: Jun Yeow <junyeow27@gmail.com>
+Date:   Sat Jul 20 22:05:53 2024 +0800
+
+    Uploading John's curriculum content
+
+[33mcommit bf804fdb0d9b2c5c8bc2ec7053e26791b0ca1953[m
+Merge: a9c1bea 123f2bf
+Author: Jun Yeow <146167763+JohnYeow23@users.noreply.github.com>
+Date:   Sat Jul 20 18:40:57 2024 +0800
+
+    Merge pull request #1 from DACSIM/john
+    
+    Testing and setting up git commands
